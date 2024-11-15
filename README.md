@@ -1,2 +1,0 @@
-# SBU-FA2024-SOC-110-
-FA2024 SOC 110 digital project
